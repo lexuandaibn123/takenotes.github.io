@@ -60,6 +60,9 @@ button:active {
   box-shadow: 0 0.7px rgb(39, 35, 35);
   transform: translateY(0.7px);
 }
+li {
+  cursor: pointer;
+}
 #area_delete {
   width: auto;
   text-align: center;
